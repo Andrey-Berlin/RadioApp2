@@ -44,7 +44,7 @@ section.innerHTML = `
 Кан Река   
 </a>
 <hr />
-<li> Европа Плюс/ Музыкальное радио России.
+<li> Европа Плюс/ Музыкальное радио.
 
 <br>
 <a href="https://emgregion.hostingradio.ru:8064/moscow.europaplus.mp3">
@@ -59,18 +59,18 @@ section.innerHTML = `
 </li>
 <hr />
 
-<li>
+<li> Авторадио/ Музыкальное радио.
 <a href="https://pub0302.101.ru:8443/stream/air/aac/64/100">
 Авторадио  
 </a>
 </li>
-
-<li>
+<hr />
+<li>Наше Радио/ Музыкальное радио.
 <a href="https://nashe1.hostingradio.ru/nashe-256">
 Наше Радио  
 </a>
 </li>
-
+<hr />
 </ul>
 </div>`;
 section.style.textAlign = 'center';
