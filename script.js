@@ -41,33 +41,33 @@ section.innerHTML = `
 
 <br>
 <a href="https://kanliveicy.media.kan.org.il/icy/kanreka_mp3">
-Кан Река   
+▶️ Кан Река   
 </a>
 <hr />
 <li> Европа Плюс/ Музыкальное радио.
 
 <br>
 <a href="https://emgregion.hostingradio.ru:8064/moscow.europaplus.mp3">
-Европаплюс
+▶️ Европаплюс
 </a>
 <hr />
 <li> Радио Свобода/ Общественное Европейское радио.
 <br>
 <a href="https://n0d.radiojar.com/hcrb063nn3quv?rj-ttl=5&rj-tok=AAABf0cR0TcAuolkyeDIQy7HGg">
-Радио Свобода
+▶️ Радио Свобода
 </a>
 </li>
 <hr />
 
 <li> Авторадио/ Музыкальное радио.
 <a href="https://pub0302.101.ru:8443/stream/air/aac/64/100">
-Авторадио  
+▶️ Авторадио  
 </a>
 </li>
 <hr />
 <li>Наше Радио/ Музыкальное радио.
 <a href="https://nashe1.hostingradio.ru/nashe-256">
-Наше Радио  
+▶️ Наше Радио  
 </a>
 </li>
 <hr />
